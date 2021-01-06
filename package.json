@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "@koa/cors": "^3.1.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "koa": "^2.13.0",
     "koa-bodyparser": "^4.3.0",
     "koa-logger": "^3.2.1",
